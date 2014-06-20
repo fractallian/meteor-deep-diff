@@ -1,0 +1,9 @@
+{
+  "name": "deep-diff",
+  "description": "deep-diff repackaged for meteor",
+  "homepage": "https://github.com/fractallian/meteor-deep-diff",
+  "author": "Jeremy Dunn",
+  "version": "0.0.1",
+  "git": "https://github.com/fractallian/meteor-deep-diff.git",
+  "packages": {}
+}

@@ -1,0 +1,3 @@
+[submodule "lib/diff"]
+	path = lib/diff
+	url = https://github.com/flitbit/diff.git
